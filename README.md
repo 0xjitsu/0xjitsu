@@ -35,10 +35,10 @@ Two submissions to **[Synthesis](https://synthesis.md)** — the first builder e
 | Project | What it is | Links |
 | --- | --- | --- |
 | **🦋 Chrysalis** | Self-compounding AI treasury agent — earns USDC via x402, deposits to Aave v3, funds its own queries from real yield | [Showcase](https://synthesis.mandate.md/projects/chrysalis-04dd) · [Repo](https://github.com/stickoyum/chrysaliss) · [0xjitsu mirror](https://github.com/0xjitsu/chrysalis) |
-| **🛂 MEL** *(Mandate Execution Layer)* | Bounded authority for agents — Self Protocol personhood → mandate → Venice private compliance → onchain action receipts | [Showcase](https://synthesis.mandate.md/projects/mandate-execution-layer-5ed3) |
+| **🛂 MEL** *(Mandate Execution Layer)* | Bounded authority for agents — Self Protocol personhood → mandate → Venice private compliance → onchain action receipts | [Showcase](https://synthesis.mandate.md/projects/mandate-execution-layer-5ed3) · [Repo](https://github.com/mxber2022/MandateExecutionLayer) |
 
 **Stack (hackathon):**
-`TypeScript` `viem` `x402` `ampersend-sdk` `Aave v3` `Base Sepolia` `Venice AI` `Self Protocol` `Foundry`
+`TypeScript` `viem` `x402` `ampersend-sdk` `Aave v3` `Base Sepolia` `Venice AI` `Self Protocol` `Foundry` `ERC-8004`
 
 📖 **Postmortem:** [Synthesis bounty claim — agent-native UX vs. phishing heuristics](https://github.com/stickoyum/chrysaliss/blob/main/docs/synthesis-bounty-claim-case-study.md)  
 *How the agent almost treated a real Devfolio winner email as a scam — and what builders + agents can learn from it.*
