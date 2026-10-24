@@ -8,7 +8,7 @@
 
 📫 DMs open on [X](https://twitter.com/0xjitsu)
 
-Building **agent-native systems**, **creative tech**, and **public-interest energy tooling** — AI × arts, onchain experiments, and tools people can actually play with. 🚀🌌
+Building **agent-native systems**, **creative tech**, and **public-interest tooling for regenerative systems** — AI × arts, onchain experiments, and tools people can actually play with. 🚀🌌
 
 </div>
 
